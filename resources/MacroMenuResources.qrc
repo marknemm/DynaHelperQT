@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="runIcon">runIcon.png</file>
+        <file alias="addIcon">addIcon.png</file>
+        <file>redoIcon.png</file>
+        <file>saveIcon.png</file>
+        <file>undoIcon.png</file>
+    </qresource>
+</RCC>
